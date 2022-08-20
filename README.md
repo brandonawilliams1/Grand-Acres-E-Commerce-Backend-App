@@ -1,3 +1,5 @@
+Link to my walkthrough video ---> https://drive.google.com/file/d/1x7p1W7zCbMN2ADKFpCutyG41OoOu05fZ/view?usp=sharing 
+
 This a fully functional E-Commerce Backend application that uses insomnia as a frontend UI.
 
 you start the App by using npm i sthis will fire up the server and create the necessary tables for the database.
