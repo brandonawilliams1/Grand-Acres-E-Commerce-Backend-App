@@ -11,3 +11,5 @@ lastly you will run your seed file using node seed/index.js
 Now you will be able to use insomnia to perform get/put/post/and delete operations on the app.
 
 technologies used: NPM, Node, Mysql, express, and sequilize
+
+*** Part of the code for this project must be credited to the TA's of the Northwestern fullstack coding program ***
